@@ -1,15 +1,8 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_7.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to calculate the factorial of a number.
  */
-
-
-														/* C Program to Find Factorial of a Number */
 
 #include <stdio.h>
 
