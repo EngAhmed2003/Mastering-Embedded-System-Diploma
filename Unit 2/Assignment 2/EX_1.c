@@ -1,15 +1,10 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_1.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to check whether a number is even or odd.
  */
 
-
-														/* Write C Program to check Whether a Number is Even or Odd  */
+/* Write C Program to check Whether a Number is Even or Odd  */
 
 #include <stdio.h>
 
