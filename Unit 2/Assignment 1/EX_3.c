@@ -4,7 +4,6 @@
  * Description: Program to add two integers.
  */
 
-/* C Program to Add Two Integers */
 
 #include <stdio.h>
 
