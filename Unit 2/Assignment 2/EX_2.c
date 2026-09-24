@@ -8,6 +8,9 @@
  ============================================================================
  */
 
+
+														/* C Program to Check an Alphabet is Vowel or Constant */
+
 #include <stdio.h>
 
 int main(){
