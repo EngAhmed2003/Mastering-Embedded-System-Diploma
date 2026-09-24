@@ -4,8 +4,6 @@
  * Description: Program to swap two numbers without using a temporary variable.
  */
 
-/* Source Code to Swap Two Numbers without temp variable */
-
 #include <stdio.h>
 
 #include <stdlib.h>
