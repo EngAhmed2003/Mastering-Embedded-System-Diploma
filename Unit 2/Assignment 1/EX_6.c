@@ -1,15 +1,10 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_6.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to swap two numbers using a temporary variable.
  */
 
-
-														/* Source Code to Swap Two Numbers */
+/* Source Code to Swap Two Numbers */
 
 #include <stdio.h>
 
