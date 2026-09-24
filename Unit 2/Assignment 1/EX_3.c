@@ -1,15 +1,10 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_3.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to add two integers.
  */
 
-
-														/* C Program to Add Two Integers */
+/* C Program to Add Two Integers */
 
 #include <stdio.h>
 
