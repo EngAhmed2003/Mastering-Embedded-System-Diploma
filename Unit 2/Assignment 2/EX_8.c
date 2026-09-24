@@ -1,15 +1,8 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_8.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to implement a simple calculator using switch-case.
  */
-
-
-														/* C Program to Make a Simple Caluculator to Add, Substract, Multiply or Divide Using (switch...case) */
 
 #include <stdio.h>
 
