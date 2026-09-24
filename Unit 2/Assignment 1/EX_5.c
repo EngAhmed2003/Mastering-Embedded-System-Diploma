@@ -1,15 +1,10 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_5.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to find the ASCII value of a character.
  */
 
-
-														/* C Program to Find ASCII Value of a Character */
+/* C Program to Find ASCII Value of a Character */
 
 #include <stdio.h>
 
