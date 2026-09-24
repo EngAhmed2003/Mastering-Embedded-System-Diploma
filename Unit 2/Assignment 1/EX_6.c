@@ -4,8 +4,6 @@
  * Description: Program to swap two numbers using a temporary variable.
  */
 
-/* Source Code to Swap Two Numbers */
-
 #include <stdio.h>
 
 int main(){
