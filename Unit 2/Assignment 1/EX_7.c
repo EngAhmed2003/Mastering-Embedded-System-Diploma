@@ -1,15 +1,10 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_7.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to swap two numbers without using a temporary variable.
  */
 
-
-														/* Source Code to Swap Two Numbers without temp variable */
+/* Source Code to Swap Two Numbers without temp variable */
 
 #include <stdio.h>
 
