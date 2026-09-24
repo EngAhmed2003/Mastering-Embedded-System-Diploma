@@ -4,8 +4,6 @@
  * Description: Program to check whether an alphabet is a vowel or consonant.
  */
 
-/* C Program to Check an Alphabet is Vowel or Constant */
-
 #include <stdio.h>
 
 int main(){
