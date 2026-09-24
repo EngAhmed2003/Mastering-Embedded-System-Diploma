@@ -19,7 +19,7 @@ int main(){
 
 	printf("Enter two integers: ");
 
-	fflush(stdin); fflush(stdout);
+	fflush(stdout);
 
 	scanf("%d %d",&i, &j);
 

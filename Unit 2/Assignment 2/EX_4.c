@@ -20,7 +20,7 @@ int main(){
 
 		printf("Enter a number : ");
 
-		fflush(stdin); fflush(stdout);
+		fflush(stdout);
 
 		scanf("%f", &i);
 

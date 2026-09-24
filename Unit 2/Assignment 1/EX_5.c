@@ -19,7 +19,7 @@ int main(){
 
 	printf("Enter a character: ");
 
-	fflush(stdin); fflush(stdout);
+	fflush(stdout);
 
 	scanf("%c",&i);
 

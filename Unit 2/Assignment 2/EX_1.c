@@ -21,7 +21,7 @@ int main(){
 
 		printf("Enter an integer you want to check: ");
 
-		fflush(stdin); fflush(stdout);
+		fflush(stdout);
 
 		scanf("%d",&i);
 

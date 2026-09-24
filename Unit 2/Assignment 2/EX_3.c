@@ -20,7 +20,7 @@ int main(){
 
 	printf("Enter three number : ");
 
-	fflush(stdin); fflush(stdout);
+	fflush(stdout);
 
 	scanf("%f %f %f",&i, &j, &k);
 

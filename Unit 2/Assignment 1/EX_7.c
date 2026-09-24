@@ -21,13 +21,13 @@ int main(){
 
 	printf("Enter a value of A: ");
 
-	fflush(stdin); fflush(stdout);
+	fflush(stdout);
 
 	scanf("%f",&i);
 
 	printf("Enter a value of B: ");
 
-	fflush(stdin); fflush(stdout);
+	fflush(stdout);
 
 	scanf("%f",&j);
 

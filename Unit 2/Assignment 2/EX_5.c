@@ -21,7 +21,7 @@ int main(){
 
 		printf("Enter an alphabet : ");
 
-		fflush(stdin); fflush(stdout);
+		fflush(stdout);
 
 		scanf("%c", &i);
 
