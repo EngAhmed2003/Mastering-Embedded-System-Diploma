@@ -4,8 +4,6 @@
  * Description: Program to find the ASCII value of a character.
  */
 
-/* C Program to Find ASCII Value of a Character */
-
 #include <stdio.h>
 
 int main(){
