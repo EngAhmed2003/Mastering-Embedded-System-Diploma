@@ -1,15 +1,10 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_2.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to check whether an alphabet is a vowel or consonant.
  */
 
-
-														/* C Program to Check an Alphabet is Vowel or Constant */
+/* C Program to Check an Alphabet is Vowel or Constant */
 
 #include <stdio.h>
 
