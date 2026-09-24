@@ -4,7 +4,6 @@
  * Description: Program to print an integer entered by the user.
  */
 
-/* C Program to Print a Integer Entered by a User */
 
 #include <stdio.h>
 
