@@ -1,15 +1,10 @@
 /*
- ============================================================================
- Name        : Assignment.c
- Author      : Ahmed Mohamed Al-Qasabi
- Version     :
- Copyright   : Copyright (c) ${date:2026} Ahmed Mohamed Bassiouni Al-Qasabi
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * File: EX_3.c
+ * Author: Ahmed Mohamed Al-Qasabi
+ * Description: Program to find the largest number among three numbers.
  */
 
-
-														/* C Program to Find the Largest Number Among Three Numbers */
+/* C Program to Find the Largest Number Among Three Numbers */
 
 #include <stdio.h>
 
