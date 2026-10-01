@@ -1,0 +1,29 @@
+# Build output
+Debug/
+Release/
+build/
+bin/
+obj/
+
+# Eclipse
+.metadata/
+.settings/
+.project
+.cproject
+
+# Visual Studio Code
+.vscode/
+
+# Code::Blocks
+*.depend
+*.layout
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.log
