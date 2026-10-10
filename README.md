@@ -4,7 +4,7 @@ This repository contains my C programming exercises and assignments completed wh
 
 ## 📌 Current Progress
 
-The repository currently includes **Unit 2**, covering two C programming assignments with a total of **15 exercises**.
+The repository currently includes **Unit 2**, covering three C programming assignments with a total of **25 exercises**.
 
 ### Assignment 1
 Fundamental C programming exercises covering:
@@ -24,11 +24,18 @@ C programming exercises covering:
 - Factorial and summation
 - Switch-case
 
+### Assignment 3
+C programming exercises covering:
+- Arrays and matrix operations
+- String handling
+- Break and continue statements
+
 ## 📁 Repository Structure
 
 ```text
 Mastering-Embedded-System-Diploma/
 ├── .gitignore
+├── LICENSE
 ├── README.md
 │
 └── Unit 2/
@@ -39,12 +46,18 @@ Mastering-Embedded-System-Diploma/
     │   ├── ...
     │   └── EX_7.c
     │
-    └── Assignment 2/
+    ├── Assignment 2/
+    │   ├── README.md
+    │   ├── EX_1.c
+    │   ├── EX_2.c
+    │   ├── ...
+    │   └── EX_8.c
+    │
+    └── Assignment 3/
         ├── README.md
-        ├── EX_1.c
-        ├── EX_2.c
-        ├── ...
-        └── EX_8.c
+        ├── Arrays/
+        ├── Strings/
+        └── break_and_continue_statements/
 ```
 
 ## 🎯 Learning Focus
