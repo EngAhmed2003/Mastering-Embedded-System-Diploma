@@ -26,7 +26,7 @@ This folder contains the C programming exercises from **Unit 2 - Assignment 3** 
 
 | Exercise | Description |
 |---|---|
-| EX_1 | Calculate the average of non-negative numbers, stopping when a negative number is entered |
+| EX_1 | Calculate the average of non-negative numbers using `break` to stop input when a negative number is entered |
 | EX_2 | Multiply four numbers while using `continue` to skip zero values |
 
 ## 🛠️ Language
