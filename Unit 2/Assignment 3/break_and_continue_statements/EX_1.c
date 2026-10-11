@@ -1,7 +1,7 @@
 /*
  * File: EX_1.c
  * Author: Ahmed Mohamed Al-Qasabi
- * Description: C program to calculate the average of non-negative numbers, stopping when a negative number is entered.
+ * Description: C program to calculate the average of non-negative numbers using break to stop input when a negative number is entered.
  */
 
 #include <stdio.h>
