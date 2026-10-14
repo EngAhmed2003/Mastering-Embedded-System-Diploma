@@ -74,5 +74,7 @@ The exercises in this repository are part of my learning progress through the di
 
 **Ahmed Al-Qasabi**
 
-- GitHub: **EngAhmed2003**
-- LinkedIn: **Ahmed Al-Qasabi**
+- GitHub: [EngAhmed2003](https://github.com/EngAhmed2003)
+- Email: [ahmedalqasabi65@gmail.com](mailto:ahmedalqasabi65@gmail.com)
+- Phone / WhatsApp: [01067894253](https://wa.me/201067894253)
+- LinkedIn: [Ahmed Al-Qasabi](https://www.linkedin.com/in/ahmed-al-qasabi-50a1292a4)
