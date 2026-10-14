@@ -4,31 +4,13 @@ This repository contains my C programming exercises and assignments completed wh
 
 ## 📌 Current Progress
 
-The repository currently includes **Unit 2**, covering three C programming assignments with a total of **25 exercises**.
+The repository currently includes **Unit 2**, with **3 assignments and 25 exercises**.
 
-### Assignment 1
-Fundamental C programming exercises covering:
-- Output and input
-- Variables and data types
-- Arithmetic operations
-- Floating-point numbers
-- Character handling
-- Swapping values
-
-### Assignment 2
-C programming exercises covering:
-- Conditional statements
-- Loops
-- Character handling
-- Problem solving
-- Factorial and summation
-- Switch-case
-
-### Assignment 3
-C programming exercises covering:
-- Arrays and matrix operations
-- String handling
-- Break and continue statements
+| Assignment | Topics | Exercises |
+|---|---|---:|
+| [Assignment 1](Unit%202/Assignment%201/README.md) | Input/output, variables, data types, arithmetic, characters, swapping values | 7 |
+| [Assignment 2](Unit%202/Assignment%202/README.md) | Conditional statements, loops, factorial, summation, switch-case | 8 |
+| [Assignment 3](Unit%202/Assignment%203/README.md) | Arrays, strings, `break`, and `continue` | 10 |
 
 ## 📁 Repository Structure
 
@@ -37,22 +19,13 @@ Mastering-Embedded-System-Diploma/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-│
 └── Unit 2/
     ├── Assignment 1/
     │   ├── README.md
-    │   ├── EX_1.c
-    │   ├── EX_2.c
-    │   ├── ...
-    │   └── EX_7.c
-    │
+    │   └── EX_1.c ... EX_7.c
     ├── Assignment 2/
     │   ├── README.md
-    │   ├── EX_1.c
-    │   ├── EX_2.c
-    │   ├── ...
-    │   └── EX_8.c
-    │
+    │   └── EX_1.c ... EX_8.c
     └── Assignment 3/
         ├── README.md
         ├── Arrays/
