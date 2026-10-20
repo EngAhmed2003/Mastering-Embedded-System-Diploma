@@ -4,13 +4,14 @@ This repository contains my C programming exercises and assignments completed wh
 
 ## 📌 Current Progress
 
-The repository currently includes **Unit 2**, with **3 assignments and 25 exercises**.
+The repository currently includes **Unit 2**, with **4 assignments and 29 exercises**.
 
 | Assignment | Topics | Exercises |
 |---|---|---:|
 | [Assignment 1](Unit%202/Assignment%201/README.md) | Input/output, variables, data types, arithmetic, characters, swapping values | 7 |
 | [Assignment 2](Unit%202/Assignment%202/README.md) | Conditional statements, loops, factorial, summation, switch-case | 8 |
 | [Assignment 3](Unit%202/Assignment%203/README.md) | Arrays, strings, `break`, and `continue` | 10 |
+| [Assignment 4](Unit%202/Assignment%204/README.md) | Prime numbers, factorial, reversing a sentence, recursion and power calculation | 4 |
 
 ## 📁 Repository Structure
 
@@ -26,11 +27,14 @@ Mastering-Embedded-System-Diploma/
     ├── Assignment 2/
     │   ├── README.md
     │   └── EX_1.c ... EX_8.c
-    └── Assignment 3/
+    ├── Assignment 3/
+    │   ├── README.md
+    │   ├── Arrays/
+    │   ├── Strings/
+    │   └── break_and_continue_statements/
+    └── Assignment 4/
         ├── README.md
-        ├── Arrays/
-        ├── Strings/
-        └── break_and_continue_statements/
+        └── EX_1.c ... EX_4.c
 ```
 
 ## 🎯 Learning Focus
