@@ -4,14 +4,15 @@ This repository contains my C programming exercises and assignments completed wh
 
 ## 📌 Current Progress
 
-The repository currently includes **Unit 2**, with **4 assignments and 29 exercises**.
+The repository currently includes **Unit 2**, with **4 assignments (29 exercises)** and **10 midterm practice programs**.
 
-| Assignment | Topics | Exercises |
+| Section | Topics | Programs |
 |---|---|---:|
 | [Assignment 1](Unit%202/Assignment%201/README.md) | Input/output, variables, data types, arithmetic, characters, swapping values | 7 |
 | [Assignment 2](Unit%202/Assignment%202/README.md) | Conditional statements, loops, factorial, summation, switch-case | 8 |
 | [Assignment 3](Unit%202/Assignment%203/README.md) | Arrays, strings, `break`, and `continue` | 10 |
 | [Assignment 4](Unit%202/Assignment%204/README.md) | Prime numbers, factorial, reversing a sentence, recursion and power calculation | 4 |
+| [Midterm Codes](Unit%202/Midterm_Codes/README.md) | Recursion, number operations, arrays, strings, binary representation and bit counting | 10 |
 
 ## 📁 Repository Structure
 
@@ -32,9 +33,12 @@ Mastering-Embedded-System-Diploma/
     │   ├── Arrays/
     │   ├── Strings/
     │   └── break_and_continue_statements/
-    └── Assignment 4/
+    ├── Assignment 4/
+    │   ├── README.md
+    │   └── EX_1.c ... EX_4.c
+    └── Midterm_Codes/
         ├── README.md
-        └── EX_1.c ... EX_4.c
+        └── EX_1.c ... EX_10.c
 ```
 
 ## 🎯 Learning Focus
